@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiKim22&layout=compact&count_private=true&langs_count=30)
+<br>
+![](https://github-readme-stats.vercel.app/api?username=ChiKim22&count_private=true&show_icons=true)
+
 <!--
 **ChiKim22/ChiKim22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

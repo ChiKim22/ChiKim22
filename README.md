@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BB2649&height=250&section=header&text=ChiKim22%&textColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BB2649&height=250&section=header&text=ChiKim22%&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 ### Hi there 👋
 
